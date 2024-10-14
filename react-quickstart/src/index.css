@@ -32,6 +32,10 @@ body {
   justify-content: center;
 }
 
+.avatar {
+  border-radius: 50%;
+}
+
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
