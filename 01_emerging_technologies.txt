@@ -1,0 +1,33 @@
+**5G NETWORKS**
+PURPOSE: 5G is the 5th generation mobile network. It enables a new kind of network to connect virtually everyone and everything together. 5G wireless technology is meant to deliver higher multi-Gbps peak data speeds, ultra-low latency, more reliability, massive network capacity, increased availability, and a more uniform user experience to more users. Higher performance and improved efficiency empower new user experiences and connect new industries.
+USAGE: 5G seamlessly connects a massive number of embedded sensors in virtually everything through the ability to scale down in data rates, power, and mobility—providing extremely lean and low-cost connectivity solutions.
+EXAMPLE: live streaming media, advanced gaming application
+
+**BLOCKCHAIN**
+PURPOSE: Blockchain technology is an advanced database mechanism that allows transparent information sharing within a business network. A blockchain database stores data in blocks linked together in a chain. The data is chronologically consistent because you cannot delete or modify the chain without consensus from the network. As a result, you can use blockchain technology to create an unalterable or immutable ledger for tracking orders, payments, accounts, and other transactions. The system has built-in mechanisms that prevent unauthorized transaction entries and create consistency in the shared view of these transactions.
+USAGE: Blockchain is a set of protected information blocks chained sequentially to one another. It is distributed over the participating nodes and allows interaction with the end users. The purpose of the blockchain is to share information amongst all parties that access it via an application. Access to the ledger regarding reading and writing may be unrestricted (‘permissionless’) or restricted (‘permissioned’). 
+EXAMPLE: It is used in Finance, to manage online payments, accounts, and market trading. In the media and entertainment industry, copyright data and efficiently manage digital rights.
+
+**GENERATIVE AI**
+PURPOSE: Generative AI can learn from existing artifacts to generate new, realistic artifacts (at scale) that reflect the characteristics of the training data but don’t repeat it. It can produce revisions of novel content, such as images, video, music, speech, text, software code, and product designs. 
+USAGE: Foundation models are among the AI architecture innovations used to automate, augment humans or machines, and autonomously execute business and IT processes.  
+EXAMPLE: Generative AI will affect the pharmaceutical, manufacturing, media, architecture, interior design, engineering, automotive, aerospace, defense, medical, electronics, and energy industries by augmenting core processes with AI models.
+
+**DIGITAL TWIN**
+PURPOSE: A digital twin is a virtual model of a physical object. It spans the object's lifecycle and uses real-time data sent from sensors on the object to simulate the behavior and monitor operations. Digital twins can replicate many real-world items, from single pieces of equipment in a factory to full installations, such as wind turbines and even entire cities. Digital twin technology allows you to oversee the performance of an asset, identify potential faults, and make better-informed decisions about maintenance and lifecycle.
+USAGE: Digital Twins are used to improve performance by providing real-time information and insights, and predicting capabilities by offering a complete visual and digital view of the object, remote monitoring also means fewer people have to check on potentially dangerous industrial equipment and accelerated production time before they exist by building digital replicas.
+EXAMPLE: It is used in architecture, medicine, etc.
+
+**BIOINFORMATICS**
+PURPOSE: Bioinformatics is a subdiscipline of biology and computing that serves to acquire, store, analyze, and disseminate biological data (DNA and amino acid sequences). It studies how cell activity is altered during an illness and is necessary to combine data relating to numerous compounds and interpret the changes. This is especially true for proteins, the building blocks of life.
+USAGE: Bioinformatics is the analysis and interpretation of biological molecules, a process called computational biology. It uses computing techniques applied in other fields, such as artificial intelligence, which include pattern recognition, machine learning algorithms, and data visualization. It is also the current basis of biotechnology that develops more efficient drugs, supervises genetic treatments, and progress in the fight against climate change.
+EXAMPLE: Bioinformatics can be used in the fields of academic, medical, farming, and veterinary.
+
+
+REFERENCES:
+https://www.qualcomm.com/5g/what-is-5g#:~:text=5G%20is%20meant%20to%20seamlessly,and%20low%2Dcost%20connectivity%20solutions.
+https://www.investopedia.com/terms/b/blockchain.asp#:~:text=Blockchain%20can%20be%20used%20to,to%20homes%2C%20and%20much%20more.
+https://aws.amazon.com/what-is/blockchain/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc
+https://www.gartner.com/en/topics/generative-ai#:~:text=for%20IT%20Leaders-,What%20is%20generative%20AI%3F,software%20code%20and%20product%20designs.
+https://aws.amazon.com/what-is/digital-twin/#:~:text=Digital%20twins%20can%20give%20you,an%20issue%20with%20component%20performance.
+https://www.iberdrola.com/innovation/bioinformatics#:~:text=OBJECTIVES%20OF%20BIOINFORMATICS&text=The%20fundamental%20objectives%20are%20to,relationships%20and%20predict%20their%20conformation.
